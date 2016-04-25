@@ -16,3 +16,26 @@ string.lenght = gives the number of characters within the string :: example = 6
 " ".empty? = false
 "".empty? = true
 
++ plus :: suma
+- minus :: resta
+/ slash :: division
+* asterisk :: multiplicacion
+% percent :: modulo
+< less-than
+> greater-than
+<= less-than-equal
+>= greater-than-equal
+
+order for math operations
+PEMDAS::
+  1-.Parentheses,
+  2-.Exponentes,
+  3-.Multiplication,
+  4-.Division,
+  5-.Addition,
+  6-.Substraction
+
+http://learnrubythehardway.org/book/ex4.html
+
+
+
